@@ -1,0 +1,12 @@
+/*.default-color0.chart-pie {
+	-fx-pie-color: #0059ff;
+}
+
+.default-color1.chart-pie {
+	-fx-pie-color: #f70531;
+}*/
+
+.button:hover {
+        -fx-scale-x: 1.01;
+        -fx-scale-y: 1.01;
+}
